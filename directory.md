@@ -181,6 +181,7 @@ Wyatt | Nicole | University of Calgary | Asst. Professor and Department Head | h
 Wójtowicz | Anna | Institute of Philosophy at the University of Warsaw (Poland) | assistant professor | http://www.filozofia.uw.edu.pl/pracownicy_old/informator/pracownicy/wojto.htm | philosophical and mathematical logic
 Yang | Fan | University of Helsinki (Finland) | Academy Research Fellow | https://sites.google.com/site/fanyanghp/ | non-classical logic
 Yap | Audrey | University of Victoria (Canada) | Associate Professor | http://web.uvic.ca/~ayap/ | philosophy of logic, history and philosophy of math, (dynamic) epistemic logic
+Yargan | Dilek |  | Independent Researcher (PhD) | | knowledge reprentation, DL, categorial proof theory, history of mathematics
 Zamansky | Anna | University of Haifa (Israel) | assistant professor | http://is.haifa.ac.il/~annazam/web/ | Non-classical logic, Proof Theory, Knowledge representation, Paraconsistent logics
 Zhu | Shufang | Sapienza University of Rome (Italy) | Research postdoc | https://shufang-zhu.github.io/ | Automated reasoning, planning and program synthesis
 Özgün | Aybüke | ILLC-University of Amsterdam | Research postdoc | https://sites.google.com/site/ozgunaybuke/ | Philosophical and mathematical logic, Formal epistemology, dynamic epistemic logic, neighbourhood/topological semantics for knowledge and belief
